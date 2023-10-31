@@ -1,7 +1,7 @@
 # DataMahasiswa.
 Program ini dibuat untuk mengetahui data Mahasiswa di tahun 2022 Berdasarkan :
 
-1.NIM\n
+1.NIM
 2.Nama
 3.Email Mahasiswa
 
